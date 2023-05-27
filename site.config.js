@@ -5,9 +5,9 @@ const CONFIG = {
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "frontend developer",
     bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    email: "garrapallyvignesh8055@gmail.com",
+    linkedin: "vignesh-garrapally",
+    github: "vigneshgarrapally",
     instagram: "",
   },
   projects: [
@@ -34,7 +34,7 @@ const CONFIG = {
 
   // notion configuration (required)
   notionConfig: {
-    pageId: "84ce97e8189646be96147c5a04fc90aa",
+    pageId: "f04f870e31214ed9be60277b1f07b064",
   },
 
   // plugin configuration (optional)
